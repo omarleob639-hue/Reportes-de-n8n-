@@ -4,7 +4,7 @@ Workflow de n8n que automatiza el proceso de reclutamiento por correo electróni
 
 > **Autor:** Omar León Montiel  
 > **Nombre del workflow en n8n:** Automatización de CVs  
-> **Estado en el export:** activo (`active: true`)  
+> **Estado en el export:** activo (active: true)  
 > **Nodos:** 87 nodos funcionales y 1 nota adhesiva (88 en total)  
 > **Última actualización de esta documentación:** 6 de octubre de 2026
 
