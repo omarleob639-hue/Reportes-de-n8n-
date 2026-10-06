@@ -2,7 +2,7 @@
 
 Workflow de n8n que automatiza el procesamiento de reportes de expertos: un experto llena un formulario con el enlace de su reporte en Google Docs, el workflow hace una copia del documento, lee su contenido, lo analiza con IA (Gemini) y envía el resultado estructurado a un Google Apps Script mediante una petición HTTP.
 
-> **Autor:** _Tu nombre_  
+> **Autor:** Omar León Montiel  
 > **Nombre del workflow en n8n:** `Informes Coordinación ULO`  
 > **Archivo de exportación:** `Informes_Coordinación_ULO.json`  
 > **Estado en el export:** activo (`active: true`)  
