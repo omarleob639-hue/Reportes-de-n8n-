@@ -2,9 +2,8 @@
 
 Workflow de n8n que automatiza el proceso de reclutamiento por correo electrónico: registra proyectos y sus posiciones a partir de los requerimientos recibidos, organiza todo en Google Drive y Google Sheets, recibe los CVs de los candidatos, los evalúa con IA contra el perfil solicitado, genera una ficha profesional en Google Docs a partir de una plantilla y notifica por Telegram.
 
-> **Autor:** _Tu nombre_  
-> **Nombre del workflow en n8n:** `Automatización de CVs`  
-> **Archivo de exportación:** `Automatización_de_CVs.json`  
+> **Autor:** Omar León Montiel  
+> **Nombre del workflow en n8n:** Automatización de CVs  
 > **Estado en el export:** activo (`active: true`)  
 > **Nodos:** 87 nodos funcionales y 1 nota adhesiva (88 en total)  
 > **Última actualización de esta documentación:** 6 de octubre de 2026
