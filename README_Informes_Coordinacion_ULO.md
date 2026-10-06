@@ -4,7 +4,7 @@ Workflow de n8n que automatiza el procesamiento de reportes de expertos: un expe
 
 > **Autor:** Omar León Montiel  
 > **Nombre del workflow en n8n:** Informes Coordinación ULO    
-> **Estado en el export:** activo (`active: true`)  
+> **Estado en el export:** activo (active: true)  
 > **Última actualización de esta documentación:** 6 de octubre de 2026
 
 ---
