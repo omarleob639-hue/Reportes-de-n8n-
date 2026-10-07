@@ -2,10 +2,9 @@
 
 Workflow de n8n que responde automáticamente a las invitaciones a procesos de selección o licitación que llegan por correo: lee el PDF de la invitación, extrae sus datos con IA, genera la carta de confirmación a partir de una plantilla de Google Docs y, en el caso de las invitaciones en español (SDP), la exporta a PDF y la envía por correo al remitente.
 
-> **Autor:** _Tu nombre_  
-> **Nombre del workflow en n8n:** `Aceptación de invitacion Mejorado`  
-> **Archivo de exportación:** `Aceptación_de_invitacion_Mejorado.json`  
-> **Estado en el export:** inactivo (`active: false`)  
+> **Autor:** Omar León Montiel  
+> **Nombre del workflow en n8n:** Aceptación de invitacion  
+> **Estado en el export:** inactivo (active: false)  
 > **Nodos:** 15  
 > **Última actualización de esta documentación:** 6 de octubre de 2026
 
